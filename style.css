@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+   text-align:center;
+}
+#featured-property img{
+  display: block;
+  margin: auto;
+}
+#featured-property figcaption{
+  text-align: center;
+}
+#featured-property p{
+  text-align: center;
+}
+#details{
+  background-color: red;
+  display: flex;
+  justify-content: space-evenly;
+}
